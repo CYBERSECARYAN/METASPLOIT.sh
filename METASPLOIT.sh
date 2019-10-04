@@ -8,14 +8,15 @@ pip install lolcat
 clear
 echo $red 
 echo ' 
-         (\____/)
-          (_oo_)
-            (O)
-          __||__    \)
-       []/______\[] /
-       / \______/ \/
-      /    /__\
-     (\   /____\
+ _______  _______  _______  _______  _______  _______  _______ _________ _        _______   
+(  ____ )(  ____ )(  ___  )(  ____ \(  ____ \(  ____ \(  ____ \\__   __/( (    /|(  ____ \  
+| (    )|| (    )|| (   ) || (    \/| (    \/| (    \/| (    \/   ) (   |  \  ( || (    \/  
+| (____)|| (____)|| |   | || |      | (__    | (_____ | (_____    | |   |   \ | || |        
+|  _____)|     __)| |   | || |      |  __)   (_____  )(_____  )   | |   | (\ \) || | ____   
+| (      | (\ (   | |   | || |      | (            ) |      ) |   | |   | | \   || | \_  )  
+| )      | ) \ \__| (___) || (____/\| (____/\/\____) |/\____) |___) (___| )  \  || (___) |  
+|/       |/   \__/(_______)(_______/(_______/\_______)\_______)\_______/|/    )_)(_______)  
+                                                                                            
 
 /....TuRn On yOur IntErneT coNnecTion....\' | lolcat
 echo " "
@@ -62,27 +63,13 @@ bash fix-ruby-bigdecimal.sh.txt
 echo " "
 echo "############# Completed ################"                                                                                                                       
 echo " "
-echo "If You Are Connected To Internet Then 
+echo "If You Are in Internet Then 
 you have downloaded metasploit successfully. 
 Subscribe us on youtube [ CYBER SEC ]"
 echo " "
 echo " (x ...BE A WHITE HAT HACKER... x) "
 echo " "
 echo '
-          \__/          Bye Bye guys...
-         `(  `^=_ p _###_
-          c   /  )  |   /
-   _____- //^---~  _c  3
- /  ----^\ /^_\   / --,-
-(   |  |  O_| \\_/  ,/
-|   |  | / \|  `-- /
-(((G   |-----|
-      //-----\\
-     //       \\
-   /   |     |  ^|
-   |   |     |   |
-   |____|    |____|
-  /______)   (_____\' | lolcat
 echo " "
 echo "Type msfconsole to start ./msfconsole..."
 echo " "
